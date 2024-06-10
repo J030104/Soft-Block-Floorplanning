@@ -32,7 +32,7 @@
     > ./floorplanner [input file name] [output file name]
 
 #### For example,
-    ./floorplanner floorplan_100.txt output_100.txt
+    > ./floorplanner floorplan_100.txt output_100.txt
 ---
 ##### Remarks:
 The program generally takes 1 to 2 minutes, and
