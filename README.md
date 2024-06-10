@@ -25,17 +25,17 @@
 6. Prerequisite: Linux environment and gnuplot
 
 ### How to compile
-    Simply type "make" under the directory.
-    > make
+Simply type "make" under the directory.
+    make
 
 ### Usage
-    After a successful compilation, there will be an executable named **floorplanner**.
-    Type the following to execute:
-    > ./floorplanner [input file name] [output file name]
+After a successful compilation, there will be an executable named **floorplanner**.
+Type the following to execute:
+    ./floorplanner [input file name] [output file name]
 
-    For example,
-    > ./floorplanner floorplan_100.txt output_100.txt
+For example,
+    ./floorplanner floorplan_100.txt output_100.txt
 
 ##### Remarks:
-    The program generally takes 1 to 2 minutes, and
-    the corresponding .gp file is generated as well.
+The program generally takes 1 to 2 minutes, and
+the corresponding .gp file is generated as well.
