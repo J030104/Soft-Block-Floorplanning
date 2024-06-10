@@ -31,8 +31,12 @@
 #### Type the following to execute:
     > ./floorplanner [input file name] [output file name]
 
+#### Checker outputs the area if the file formats are correct.
+    > ./checker [input file name] [output file name]
+
 #### For example,
     > ./floorplanner floorplan_100.txt output_100.txt
+    > ./checker floorplan_10.txt output_10.txt
 ---
 ### Remarks:
 The program generally takes 1 to 2 minutes, and
