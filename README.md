@@ -5,24 +5,22 @@
 ### Optimization Technique: Simulated Annealing
 
 ### Overview
-1. Student ID: B110300XX
-2. Name: 陳○○
-3. Programming Language: C++
-4. Platform: Linux GNU g++
-5. Files:
-    file_parser.cpp (and the corresponding .h header file):
-        Reader, writers and the macro data structure. 
-    seq_pair.cpp (and the corresponding .h header file):
-        The sequence pair data structure and some associated methods.
-    floorplanner.cpp:
-        The main program source code which includes SA optimization.
-    Makefile:
-        A makefile file.
-    report.docx:
-        A brief report on the data structures and algorithms.
-    README.md:
-        This file.
-6. Prerequisite: Linux environment and gnuplot
+#### Programming Language: C++
+#### Platform: Linux GNU g++
+#### Prerequisite: Linux environment and gnuplot
+#### Files:
+- file_parser.cpp (and the corresponding .h header file):
+    Reader, writers and the macro data structure. 
+- seq_pair.cpp (and the corresponding .h header file):
+    The sequence pair data structure and some associated methods.
+- floorplanner.cpp:
+    The main program source code which includes SA optimization.
+- Makefile:
+    A makefile file.
+- report.docx:
+    A brief report on the data structures and algorithms.
+- README.md:
+    This file.
 
 ### How to compile
 #### Simply type "make" under the directory.
