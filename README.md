@@ -1,8 +1,9 @@
-﻿# Soft-Block-Floorplanning
----
-### This programme aims to minimize the total area occupied by a set of soft blocks (macros)
-### Floorplan Representation: Sequence Pair method paired with the Longest Common Sequence Algorithm
-### Optimization Technique: Simulated Annealing
+﻿## Soft-Block-Floorplanning
+--- 
+### Purpose
+This program aims to minimize the total area occupied by a set of soft blocks (macros).\
+##### Floorplan Representation: Sequence Pair method paired with the Longest Common Sequence Algorithm\
+##### Optimization Technique: Simulated Annealing
 ---
 ### Overview
 #### Programming Language: C++
@@ -41,3 +42,5 @@
 ### Remarks:
 The program generally takes 1 to 2 minutes, and
 the corresponding .gp file is generated as well.
+
+###### 112 2nd Semester - Software Development for Electronic Design Automation
