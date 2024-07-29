@@ -1,8 +1,8 @@
 ﻿## Soft-Block-Floorplanning
 --- 
 ### Purpose
-This program aims to minimize the total area occupied by a set of soft blocks (macros).\
-##### Floorplan Representation: Sequence Pair method paired with the Longest Common Sequence Algorithm\
+This program aims to minimize the total area occupied by a set of soft blocks (macros).
+##### Floorplan Representation: Sequence Pair method paired with the Longest Common Sequence Algorithm
 ##### Optimization Technique: Simulated Annealing
 ---
 ### Overview
